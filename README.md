@@ -1,7 +1,7 @@
 # verkefni 3 skýrsla
 Eiríkur Stefánsson
 # Lýsing
-í þessu verkefni áttum við að búa til leikin SimonSays. við fengum útskýringu hvernig leikurinn virkaði og hvernig við mundum búa til okkar eiginn útgáfu með arduino. það var ekki hægt að installa forritinu fyrir arduino kóðan, vegna hugbúnaðar læsingu á Ipad. gunnar installaði kóðanum handa mér og síðan gerði ég mini útgáfu af SimonSays á breadbordi, eftir það tengdi ég ground víra saman á takkanum, og tengdi svo hina vírana við. ég fékk plast hulstrið utan um leikinn og byrjaði að setkja það saman. ég prófaði leikinn og hann virkaði vel.
+í þessu verkefni áttum við að búa til leikin SimonSays. við fengum útskýringu hvernig leikurinn virkaði og hvernig við mundum búa til okkar eiginn útgáfu með arduino. það var ekki hægt að installa forritinu fyrir arduino kóðan, vegna hugbúnaðar læsingu á Ipad. gunnar installaði kóðanum handa mér og síðan gerði ég mini útgáfu af SimonSays á breadbordi, eftir það tengdi ég ground víra saman á takkanum, og tengdi svo hina vírana við. ég fékk plast hulstrið utan um leikinn og byrjaði að setkja það saman. ég prófaði leikinn og hann virkaði vel. ég lóðaði ekkert.
 # kóðaskrá
 er ekki með neinn kóða vegna Ipads
 # tengill á video
